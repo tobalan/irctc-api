@@ -54,7 +54,9 @@
   ],
   "dependencies": {
     "tough-cookie": "^5.0.0",
-    "undici": "^7.1.0"
+    "undici": "^7.1.0",
+    "camoufox-js": "^0.6.2",
+    "playwright-core": "^1.40.0"
   },
   "engines": {
     "node": ">20.0.0",
